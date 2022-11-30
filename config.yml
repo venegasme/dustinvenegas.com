@@ -1,0 +1,42 @@
+baseURL: http://dustinvenegas.com/
+languageCode: en-us
+title: "dustinvenegas.com"
+theme: PaperMod
+
+enableRobotsTXT: true
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  description: "Dustin Venegas' Personal Website"
+  keywords: [SoftwareEngineering, Programming, Blog, Portfolio]
+  author: Dustin
+  DateFormat: "January 2, 2006"
+  defaultTheme: dark # dark, light
+  disableThemeToggle: true
+
+  label:
+    text: "🧑‍💻 Dustin Venegas"
+
+  homeInfoParams:
+    Title: "Howdy! Let's scale knowledge. ‍💻☁️🕸️"
+    Content: "__Dustin Venegas__ is a __Software Engineer__ with more than __10+ years__ of developing cloud software platforms (SaaS, D2C) at-scale that can leverage SQL, documentDBs, messages busses, event streams, and maintainable cloud infrastructure in your engineering organization. Let's connect!"
+
+  socialIcons:
+    - name: email
+      url: "mailto:careers@dustinvenegas.com"
+    - name: github
+      url: "https://github.com/dustinvenegas/"
+    - name: keybase
+      url: "https://keybase.io/dustinvenegas"
+    - name: linkedin
+      url: "https://linkedin.com/dustinvenegas/"
+    - name: mastodon
+      url: "https://hachyderm.io/@mossydev"
+    # - name: stackoverflow
+    #   url: "https://stackoverflow.com/users/61570/dustin-venegas"
+    # - name: twitter
+    #   url: "https://twitter.com/dustinvenegas"
