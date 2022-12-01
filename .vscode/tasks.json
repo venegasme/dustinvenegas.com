@@ -8,6 +8,12 @@
 			"type": "shell",
 			"command": "hugo server --watch --verbose --cleanDestinationDir --disableFastRender --buildDrafts",
 			"problemMatcher": []
+		},
+		{
+			"label": "Open LOCAL Hugo Instance",
+			"type": "shell",
+			"command": "Start-Process http://localhost:1313/",
+			"problemMatcher": [],
 		}
 	]
 }
