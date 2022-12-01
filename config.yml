@@ -19,7 +19,9 @@ params:
   disableThemeToggle: true
 
   label:
-    text: "🧑‍💻 Dustin Venegas"
+    text: "Dustin Venegas"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
 
   homeInfoParams:
     Title: "Howdy! Let's scale knowledge. ‍💻☁️🕸️"
