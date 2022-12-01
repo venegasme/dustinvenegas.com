@@ -29,7 +29,7 @@ params:
 
   socialIcons:
     - name: email
-      url: "mailto:careers@dustinvenegas.com"
+      url: "mailto:dustin@dustinvenegas.com"
     - name: github
       url: "https://github.com/dustinvenegas/"
     - name: keybase
@@ -42,3 +42,10 @@ params:
     #   url: "https://stackoverflow.com/users/61570/dustin-venegas"
     # - name: twitter
     #   url: "https://twitter.com/dustinvenegas"
+
+menu:
+  main:
+    - identifier: archive
+      name: archive
+      url: /archive/
+      weight: 10
