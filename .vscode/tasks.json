@@ -10,10 +10,23 @@
 			"problemMatcher": []
 		},
 		{
-			"label": "Open LOCAL Hugo Instance",
+			"label": "Open Local Hugo",
 			"type": "shell",
 			"command": "Start-Process http://localhost:1313/",
 			"problemMatcher": [],
+		},
+		{
+			"label": "New Hugo Post",
+			"type": "shell",
+			"command": "hugo new --kind post posts/${input:postID}.md",
+			"problemMatcher": [],
+		}
+	],
+	"inputs": [
+		{
+			"id": "postID",
+			"description": "ID of a post archetype",
+			"type": "promptString"
 		}
 	]
 }
