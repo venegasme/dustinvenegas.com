@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/dustinvenegas
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://dustinvenegas.com
+  * I am dustinvenegas (https://keybase.io/dustinvenegas) on keybase.
+  * I have a public key ASD4nNfx1aWQ3qTYKp-XG3wRVp7veHepSboTU9SjX9obgQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012010cdfe30fc6eaef074e45c60708437c203c124969b293a5e6e214ae28eb4b0c50a",
+      "host": "keybase.io",
+      "kid": "0120f89cd7f1d5a590dea4d82a9f971b7c11569eef7877a949ba1353d4a35fda1b810a",
+      "uid": "275d12bf416dca5d454463f7d4b77019",
+      "username": "dustinvenegas"
+    },
+    "merkle_root": {
+      "ctime": 1669940008,
+      "hash": "5a418ca9cf22b5a2ed89764beb10f80bba2f13c83c777c50f92facadbabb3c264dbb73a29cde94cb31a588ec875bed1dd3753bd96f241b56f617e91d24603144",
+      "hash_meta": "e16fcb3fd1353792c4ea64f1aaec768b266784b839e6ff1ae79ffefc495be27d",
+      "seqno": 23650993
+    },
+    "service": {
+      "entropy": "oaz2OSsSxDcoupOAYdUyZZWi",
+      "hostname": "dustinvenegas.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1669940085,
+  "expire_in": 504576000,
+  "prev": "f92742b08dcd4c06513124b002269559e34f48405520e5bbc22bf920da463fc5",
+  "seqno": 42,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg+JzX8dWlkN6k2Cqflxt8EVae73h3qUm6E1PUo1/aG4EKp3BheWxvYWTESpcCKsQg+SdCsI3NTAZRMSSwAiaVWeNPSEBVIOW7wiv5INpGP8XEIKuhdUzCHFfriH/S5bFrt04+2ZCD161mCKQVvyxne/mgAgHCo3NpZ8RAj5RYK7891ir/31YU7Ir/GEn+DF92DYLs/SOazZwDefVJlmB7sVMxqbgdiaToRULtLHLvWxwO8mS8hFoA0UhZCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEID8IQTfSbjw96S2HgK7J9cf1lCgM7x5TLwcuvADWOsIOo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dustinvenegas
+
+==================================================================
