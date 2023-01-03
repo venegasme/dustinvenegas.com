@@ -4,12 +4,22 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "Serve Drafts",
+            "label": "Serve Drafts (Localhost)",
             "type": "shell",
             "command": "hugo server -D",
             "group": {
                 "kind": "test",
                 "isDefault": true
+            },
+            "isBackground": true,
+            "problemMatcher": []
+        },
+        {
+            "label": "Serve Drafts (Codespaces)",
+            "type": "shell",
+            "command": "hugo server -D --baseUrl=\"https://${CODESPACE_NAME}-1313.${GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN}/\" --appendPort=false",
+            "group": {
+                "kind": "test",
             },
             "isBackground": true,
             "problemMatcher": []
