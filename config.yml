@@ -29,7 +29,7 @@ params:
 
   socialIcons:
     - name: email
-      url: "mailto:dustin@dustinvenegas.com"
+      url: "mailto:contact@dustinvenegas.com"
     - name: github
       url: "https://github.com/dustinvenegas/"
     - name: keybase
